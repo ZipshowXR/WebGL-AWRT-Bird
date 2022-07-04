@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebGL-AWRT-Bird.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/ver_Modeling_001.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
